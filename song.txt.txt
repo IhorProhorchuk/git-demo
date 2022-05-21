@@ -5,4 +5,3 @@ forth string
 
 sixth string
 seventh string
---------------------------
